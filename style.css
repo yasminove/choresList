@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+}
+
+.heading {
+    font-family: "Concert One", sans-serif;
+    font-size: 40px
+}
+
+.container {
+    margin: 0 auto;
+    width: 300px
+}
+
+label {
+    display: block;
+    margin-bottom: 9px;
+    text-align: left;
+    font-family: "Inter";
+}
+
+#input-feild {
+    display: block;
+    background: #EEE;
+    border: none;
+    padding: 9px;
+    border-radius: 6px;
+    font-size: 17px;
+    width: 290px;
+    text-align: center;
+    margin-bottom: 9px;
+}
+
+.add-chore {
+    text-align: left;
+    background: #FFCC68;
+    border: none;
+    padding: 9px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.add-chore:hover {
+    background: #F9AF1F;
+}
+
+.buttons-container {
+    text-align: right;
+}
+
+.delete-all {
+    background: #FF9548;
+    border: none;
+    border-radius: 6px;
+    padding: 9px;
+    font-size: 15px
+}
+
+.delete-all:hover {
+    background: #FA710D;
+}
